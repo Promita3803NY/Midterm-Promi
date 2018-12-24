@@ -110,10 +110,15 @@ what is multithreading in java?
 What is the use of synchronization in Java?
 What is Framework?
 What are the testing Framework available in java?
+Answer: The Java testing framework is very simple to use, and provides annotations for test method identifications. ... Although JUnit is a popular unit testing framework, it can also be used for integration and acceptance tests.
 Difference between jUnit and testNG?
+Answer: Major difference in TestNG and JUnit test frameworks is their scope. I suggest to use TestNG as core unit test framework for Java project, because TestNG is more advance in parameterize testing, dependency testing and suite testing (Grouping concept). TestNG is meant for high-level testing and complex integration test.
 What are the dependencies for this project?
+Answer: Dependencies are the relationships of the preceding tasks to the succeeding tasks. Tasks may have multiple preceding tasks and multiple succeeding tasks. The most common dependency relationship is a finish-to-start relationship. ... Project Insight, project management software, supports all four dependency relationships.
 what is dependency injection in java?
+Answer: A framework class, usually called the dependency container, could analyze the dependencies of this class. With this analysis it is able to create an instance of the class and inject the objects into the defined dependencies, via Java reflection. ... If dependency injection is used, a Java class can be tested in isolation.
 What is static binding and dynamic binding?
+Answer: Static binding in Java occurs during compile time while dynamic binding occurs during runtime. private , final and static methods and variables use static binding and are bonded by compiler while virtual methods are bonded during runtime based upon runtime object.
 
 
 
